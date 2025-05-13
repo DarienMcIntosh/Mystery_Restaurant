@@ -1,3 +1,3 @@
-# comp2140-project
+# Mystery Restaurant & Lounge Inventory Management System
 
-This group project was done by Darien McIntosh, Rayvene Jennings-Allen, Owen Burton, Romarie Haughton
+This was created for Mystery Restaurant & Lounge where they are able to management their inventory, take orders and secure bookings for event being held at the establishment.
